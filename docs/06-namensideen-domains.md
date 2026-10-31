@@ -5,6 +5,77 @@
 
 ---
 
+## Runde 3 (31.10.2026): Alles rund um `fischerdg.de`
+
+**„Fischer DG“** steht für **F**ischer **D**esign **G**ermany: Dein Firmenname bleibt, und die Domain ist mit 12 Zeichen kurz.
+
+### Status der Domain-Familie
+
+| Domain | Status | Kosten bei INWX pro Jahr |
+|---|---|---|
+| **`fischerdg.de`** | ✅ frei | 5,02 € im 1. Jahr, danach 3,91 € |
+| `fischer-dg.de` | ✅ frei | 5,02 € / 3,91 € |
+| `fischerdg.com` | ✅ frei | 14,60 € |
+| `fischer-dg.com` | ✅ frei | 14,60 € |
+| `fischerdg.eu` | ✅ vermutlich frei (nur per DNS prüfbar, EURid blockiert Abfragen) | 5,00 € im 1. Jahr, danach 10,00 € |
+| `fischerdg.net` | ✅ frei | – |
+| `dgfischer.de` | ✅ frei | 5,02 € / 3,91 € |
+| `dg-fischer.de` | ❌ vergeben | – |
+
+- **Eindeutigkeit:** Eine Firma „Fischer DG“ habe ich nicht gefunden. In der Websuche tauchen auch keine Social-Media-Konten „fischerdg“ auf; prüfe das trotzdem direkt in den Apps.
+- **Marke:** Das Markenregister hat die Abfrage blockiert. Bitte kurz selbst im [DPMAregister](https://register.dpma.de/DPMAregister/marke/einsteiger) nach „Fischer DG“ suchen.
+
+### Domain-Pakete im 20-€-Budget
+
+Website über Cloudflare Pages und E-Mail über Zoho Free kosten 0 €, siehe [07](07-budget-website-unter-20-euro.md).
+
+| Paket | Domains | 1. Jahr | ab 2. Jahr |
+|---|---|---:|---:|
+| Basis | `fischerdg.de` | 5,02 € | 3,91 € |
+| ⭐ **+ Tippfehler-Schutz** | + `fischer-dg.de` | **10,04 €** | **7,82 €** |
+| + Europa | + `fischerdg.eu` | 10,02 € | 13,91 € |
+| + International | + `fischerdg.com` | 19,62 € | 18,51 € (knapp unter 20 €) |
+
+### Weitere Ideen im gleichen Stil: „Fischer“ + Kürzel
+
+| Domain | Lesart | Passt zu | Status |
+|---|---|---|---|
+| **`fischerdg.de`** | Fischer **D**esign **G**ermany | Gesamtfirma | ✅ ⭐ |
+| `fischerdk.de` | Fischer **D**esign & **K**onstruktion | Design + CAD | ✅ |
+| `fischerdw.de` | Fischer **D**esign**w**erk | Werkstatt-Charakter | ✅ |
+| `fischerdt.de` | Fischer **D**esign**t**echnik | Werbetechnik + CAD | ✅ |
+| `fischerwd.de` | Fischer **W**erbe**d**esign | Werbung | ✅ |
+| `fischercd.de` | Fischer **C**orporate **D**esign | Design | ✅ |
+| `fischerwt.de` | Fischer **W**erbe**t**echnik | Werbetechnik | ✅, aber `fischer-wt.de` ist vergeben |
+| `fischerft.de` | Fischer **F**olien**t**echnik | Folierung | ✅, aber „Fischer … Folientechnik“ gibt es schon zweimal (Berlin, Ortenburg) |
+
+### Kurze Wort-Domains mit „Fischer“
+
+| Domain | Idee | Status |
+|---|---|---|
+| `fischercut.de` | „Cut“ wie Schneideplotter, passt zum Folienplott | ✅ |
+| `fischerplot.de` | Plotten | ✅ |
+| `fischer3d.de` | 3D/CAD-Konstruktion | ✅ (`fischer-3d.de` ist reserviert) |
+| `fischerworks.de` | „Fischer Works“ | ✅ |
+| `fischermade.de` | „hergestellt von Fischer“ | ✅ |
+| `fischerstyle.de` | Stil/Design | ✅ |
+| `fischerone.de` | neutral | ✅ |
+| `fischerkreativ.de` | Kreativ | ✅, aber `fischer-kreativ.de` ist vergeben |
+
+**Vergeben:** `fischerform.de`, `fischer-form.de`, `fischerplus.de`, `fischerpro.de`, `fischerart.de`, `fischerlab.de`, `fischerprint.de`, `fischerline.de`, `fischerkonzept.de`, `fischerprojekt.de`, `fischermedia.de`, `fischerwerk.de`, `fischerideen.de`, `fischer-ideen.de`, `fischerd.de`
+
+### Was du mit `fischerdg.de` noch machen kannst (ohne Mehrkosten)
+
+1. **Logo/Wortmarke:** „FISCHER DG“ mit der Unterzeile „Design · Folierung · Werbetechnik · CAD“. Das „DG“ erklärt sich so von selbst.
+2. **E-Mail-Adressen:** `info@`, `kontakt@` und `rechnung@fischerdg.de`
+3. **Unterseiten statt vieler Domains** (das hilft auch bei Google): `fischerdg.de/kfz-folierung`, `/werbetechnik`, `/folienplott`, `/cad-konstruktion`, `/vermietung`, `/referenzen`
+4. **Kostenloses Google-Unternehmensprofil** mit `fischerdg.de` verknüpfen. Für Folierung und Werbetechnik vor Ort bringt das meist mehr als jede zusätzliche Domain.
+5. **Social-Media-Namen `@fischerdg`** (Instagram, Facebook, TikTok, LinkedIn) gleich mit reservieren.
+6. **Eigenes Firmenfahrzeug beschriften:** `fischerdg.de` ist kurz und auch im Vorbeifahren gut lesbar.
+7. Optional später: **Marke „Fischer DG“** beim DPMA anmelden (290 € einmalig für 10 Jahre, nicht im Jahresbudget).
+
+---
+
 ## Runde 2 (31.10.2026): Namen passend zu deinen Leistungen
 
 **Leistungen:** Folierung und Kfz-Folierung, Folienplott, Design, Werbung, CAD-Konstruktion, Vermietung.

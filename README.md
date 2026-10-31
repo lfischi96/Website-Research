@@ -9,6 +9,7 @@ Alle Preise inkl. 19 % MwSt., soweit nicht anders angegeben. Preise ändern sich
 
 | Frage | Antwort |
 |---|---|
+| **Aktueller Favorit?** | ⭐ **`fischerdg.de`** („Fischer DG“ = **F**ischer **D**esign **G**ermany): 12 Zeichen, frei (31.10.2026), dazu sind `fischer-dg.de`, `fischerdg.com` und `fischerdg.eu` frei. Im Budget z. B. `fischerdg.de` + `fischer-dg.de` für **7,82 €/Jahr**. → [Ideen rund um fischerdg.de](docs/06-namensideen-domains.md#runde-3-31102026-alles-rund-um-fischerdgde) |
 | **Welcher Name passt zu Folierung, Werbetechnik und CAD?** | 🆕 **Fischer Designwerk** → `fischerdesignwerk.de` + Kurz-Domain **`fdwerk.de`** (9 Zeichen). Alternativen: **Fischer Designtechnik** (`fdtechnik.de`), **Fischer Design Lab**, **Fischer Designgarage** (`fdgarage.de`). Ohne Umbenennung: **Fischer DG** (`fischerdg.de`) oder `fischer-design.de` (steht zum Verkauf). Namen wie „Fischer Werbetechnik“, „Folien Fischer“ oder „Fischer CAD“ sind **schon von Firmen in deiner Branche belegt**. → [Namensideen & Domain-Check](docs/06-namensideen-domains.md) |
 | **Geht die Website für max. 20 €/Jahr?** | 🆕 **Ja**, mit **ca. 4–8 €/Jahr**: Domain(s) bei INWX, Website kostenlos auf **Cloudflare Pages**, E-Mail kostenlos (Zoho Mail Free oder Weiterleitung). Klassisches Webhosting (29–32 €/Jahr) passt nur im Aktionspreis. → [Budget-Setup](docs/07-budget-website-unter-20-euro.md) |
 | **Ist `fischer-design-germany.de` frei?** | ✅ **Ja** (DENIC-Abfrage 30. und 31.10.2026), aber mit 25 Zeichen lang. „Germany“ ist neben `.de` doppelt gemoppelt |
@@ -24,7 +25,7 @@ Alle Preise inkl. 19 % MwSt., soweit nicht anders angegeben. Preise ändern sich
 0. **Namen festlegen**, z. B. einen der Favoriten aus [06 – Namensideen](docs/06-namensideen-domains.md).
 1. Konto bei [INWX](https://www.inwx.de) anlegen und 2-Faktor-Anmeldung aktivieren.
 2. Eine **sofortige Zahlungsart** wählen (z. B. PayPal oder Kreditkarte). Eine Überweisung dauert 1–2 Tage.
-3. Die Wunschdomain(s) suchen (z. B. `fischerdesignwerk.de` + Kurz-Domain `fdwerk.de`), in den Warenkorb legen, 1 Jahr Laufzeit.
+3. Die Wunschdomain(s) suchen (z. B. `fischerdg.de` + Tippfehler-Schutz `fischer-dg.de`), in den Warenkorb legen, 1 Jahr Laufzeit.
 4. Inhaberdaten **exakt wie im Ausweis** eintragen. Als Einzelunternehmer bist du **natürliche Person**; Pflicht sind außerdem eine **Telefonnummer** und eine **E-Mail-Adresse**.
 5. Bestellen und den **Bestätigungslink in der E-Mail** sofort anklicken (neue DENIC-Pflicht).
 6. Nameserver vorerst unverändert lassen. Die Website kommt später.
