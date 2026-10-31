@@ -69,7 +69,27 @@ Bereits **vergeben**: `fischer-werbetechnik.de`, `fischerwerbung.de`, `fischer-c
    **Kosten:** 10,04 € im 1. Jahr, danach **7,82 € pro Jahr**. Das passt ins 20-€-Budget, siehe [07](07-budget-website-unter-20-euro.md).
 2. **Fischer Designtechnik** (`fischerdesigntechnik.de` + `fdtechnik.de`), wenn Werbetechnik und CAD im Vordergrund stehen sollen.
 3. **Fischer Design Lab** (`fischerdesignlab.de`), wenn es modern und digital wirken soll. Dafür gibt es keine kurze Kürzel-Domain.
-4. **Ohne Umbenennung:** „Fischer Design Germany“ behalten und die Kurz-Domain `fdgdesign.de` nutzen.
+4. **Ohne Umbenennung:** „Fischer Design Germany“ behalten und die Kurz-Domain `fdgdesign.de` nutzen. Bessere Alternativen dazu stehen im nächsten Abschnitt.
+
+### Bessere Alternativen zu „FDG Design“ (Stand 31.10.2026)
+
+**Schwächen von „FDG Design“:** Der Name Fischer ist nicht mehr zu sehen, und das Kürzel sagt Kunden nichts. Unter genau diesem Namen gibt es außerdem eine US-Firma (*FDG Design Group*, Interior Design). In Eichenzell gibt es „FD Design“ (Textildruck & Grafik), also eine ähnliche Branche.
+
+Diese Varianten behalten deinen Firmennamen **„Fischer Design Germany“**, und „Fischer“ bleibt sichtbar:
+
+| Idee | Domain | Zeichen | Status | Bewertung |
+|---|---|---:|---|---|
+| 🥇 **„Fischer Design“ + .de** (`.de` = Germany) | `fischer-design.de` | 17 | 💰 **zum Verkauf** (Preis auf Anfrage) | Passt perfekt zum jetzigen Namen. Einmaliger Kaufpreis unbekannt, danach 3,91 €/Jahr bei INWX. Markenhinweis aus Abschnitt 1 beachten |
+| 🥈 **Fischer DG** (DG = Design Germany) | `fischerdg.de` | 12 | ✅ frei (`.com` auch) | Direkter Nachfolger von „FDG“, aber mit sichtbarem „Fischer“. Kurz, gut lesbar auf Fahrzeug und Visitenkarte |
+| 🥉 **„Fischer designt.“** (Wortspiel) | `fischerdesignt.de` | 17 | ✅ frei (`.com` auch) | Einprägsam, auch als Slogan: „Fischer designt. Folierung · Werbetechnik · CAD“. Risiko: Wer das „t“ vergisst, landet auf `fischerdesign.de`, das jemand anderem gehört |
+| **Fischer gestaltet** | `fischergestaltet.de` / `fischer-gestaltet.de` | 19 / 20 | ✅ frei (`.com` auch) | Deutsch, freundlich, gut am Telefon. Ohne das Wort „Design“ |
+| **Fischer DSGN** | `fischerdsgn.de` | 14 | ✅ frei, aber `fischerdsgn.com` nutzt bereits eine andere „Fischer Design“ | Modern und kurz, am Telefon muss man aber „D-S-G-N“ buchstabieren |
+| FDG + Fischer | `fdg-fischer.de` | 14 | ✅ frei | Kompromiss, wirkt etwas sperrig |
+
+Ebenfalls frei: `fischerdesigngermany.de` (23, voller Name ohne Bindestriche), `fdgstudio.de`, `fdgwerk.de`, `fdgwraps.de`, `fschrdesign.de`.
+Vergeben: `designbyfischer.de`, `byfischer.de`, `fdg.de`, `fdesign.de`, `f-design.de`, `fischdesign.de`, `fischers-design.de` (zum Verkauf).
+
+**Empfehlung:** Frag zuerst unverbindlich den Preis für **`fischer-design.de`** an. Ist er zu hoch, nimm **`fischerdg.de`**: Das ist die direkte, bessere Version von „FDG“. Wer etwas Witziges möchte, greift zu `fischerdesignt.de`.
 
 ---
 
