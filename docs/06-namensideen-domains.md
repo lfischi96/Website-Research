@@ -5,6 +5,76 @@
 
 ---
 
+## Runde 2 (31.10.2026): Namen passend zu deinen Leistungen
+
+**Leistungen:** Folierung und Kfz-Folierung, Folienplott, Design, Werbung, CAD-Konstruktion, Vermietung.
+**Vorgaben:** „Fischer“ muss vorkommen, am besten auch „Design“. Kürzel sind möglich. Die Website soll **höchstens 20 € pro Jahr** kosten, siehe [07 – Website für max. 20 € im Jahr](07-budget-website-unter-20-euro.md).
+
+### Wichtigste Erkenntnis: „Fischer + Branchenwort“ ist schon belegt
+
+In genau deinen Branchen gibt es bereits Firmen mit „Fischer“ im Namen (Abruf der Websites am 31.10.2026):
+
+| Domain | Wer dort ist | Folge für deinen Namen |
+|---|---|---|
+| `folien-fischer.de` | **„Folien Fischer“: Fahrzeugbeschriftung, Schilder** | ❌ „Fischer Folien“, „Folienfischer“ u. Ä. meiden (Verwechslungsgefahr) |
+| `fischerwerbung.de` | **„Fischer Licht- und Außenwerbung“: Werbetechnik** | ❌ „Fischer Werbung/Werbetechnik“ meiden |
+| `fischer-werbetechnik.de` | vergeben (Server-Fehler) | ❌ |
+| `fischer-cad.de` | **„Fischer-CAD“: mechanische Konstruktion, CAD-Schulungen** | ❌ „Fischer CAD“ meiden |
+| `fd-foliendesign.de` | **„FD-Foliendesign“** | ⚠️ Kürzel „FD“ + „Folie“ meiden |
+| `fischer-folie.de` | „Fischer Sicherheitssysteme: Folientechnik aus Berlin“ | ❌ „Fischer Folientechnik“ meiden |
+
+Viele dieser Branchennamen wären als `.de` sogar noch frei, z. B. `fischerfolierung.de` oder `fischerwerbetechnik.de`. Wegen der Verwechslungsgefahr mit den bestehenden Firmen **empfehle ich sie trotzdem nicht**.
+Besser ist eine **Dachmarke mit eigenem Zusatz**. Die Leistungen stehen dann im Untertitel, z. B.:
+
+> **Fischer Designwerk**: Folierung · Werbetechnik · CAD-Konstruktion · Vermietung
+
+### Neue Favoriten (alle `.de` frei, Stand 31.10.2026)
+
+| Name | Hauptdomain | Kurz-Domain (Kürzel) | Passt zu | Markenlage |
+|---|---|---|---|---|
+| ⭐ **Fischer Designwerk** | `fischerdesignwerk.de` (20) | **`fdwerk.de`** (9) | allen Leistungen; „Werk“ = Werkstatt, Folierung, Plott, Konstruktion | „Fischer Designwerk“: 0 Treffer. Aber **„Designwerk“ allein ist 12-mal eingetragen** (s. u.) |
+| **Fischer Designtechnik** | `fischerdesigntechnik.de` (23) | `fdtechnik.de` (12) | Werbetechnik + CAD-Konstruktion, wirkt technisch-kompetent | nicht prüfbar (Register blockiert) |
+| **Fischer Design Lab** | `fischerdesignlab.de` (19) | ❌ (`fdlab.de` vergeben) | Design + CAD, modern | „Fischer Design Lab“: 0 Treffer |
+| **Fischer Designgarage** | `fischerdesigngarage.de` (22) | `fdgarage.de` (11) | Kfz-Folierung im Mittelpunkt, einprägsam | nicht prüfbar |
+| **Fischer Designfactory** | `fischerdesignfactory.de` (23) | `fdfactory.de` (12) | Produktion/Fertigung | nicht prüfbar |
+| **FDG Design** (= **F**ischer **D**esign **G**ermany) | `fdgdesign.de` (12) oder `fdg-design.de` (13) | – | Du behältst deinen jetzigen Namen und bekommst eine kurze Domain dazu | – |
+
+Weitere freie Ideen:
+- **Mit „Design“:** `fischerwerbedesign.de`, `fischerwrapdesign.de`, `fischer-signdesign.de`, `fischer-plotdesign.de`, `fischerdesignpro.de`, `fischerdesignplus.de`, `fischerdesignhub.de`
+- **Kurz und englisch:** `fischerwraps.de`, `fischersigns.de`, `fischerplott.de` (je 15 Zeichen)
+- **Wortspiele:** `werbefischer.de` („Der Werbefischer“, 0 Marken-Treffer), `signfischer.de`, `wrapfischer.de`, `plottfischer.de`
+- **Kürzel:** `fdwerk.de`, `fd-werk.de`, `fdtechnik.de`, `fdgarage.de`, `fdfactory.de`, `fdwraps.de`, `fd-signs.de`, `fdw-design.de`, `fdesignwerk.de`
+
+Bereits **vergeben**: `fischer-werbetechnik.de`, `fischerwerbung.de`, `fischer-cad.de`, `fischercad.de`, `fischer-konstruktion.de`, `fischer-vermietung.de`, `fischer-folie.de`, `folienfischer.de` (zum Verkauf), `folien-fischer.de`, `ideenfischer.de`, `fdlab.de`, `fd-lab.de`, `fd-cad.de`, `fi-design.de`, `fidesign.de`, `fd-foliendesign.de`, `fdw.de`
+
+### „Designwerk“ im Markenregister (TMview, 31.10.2026)
+
+12 eingetragene Marken enthalten „Designwerk“, darunter:
+
+| Marke | Inhaber | Klassen (relevant für dich: 35 Werbung, 40 Materialbearbeitung/Druck, 42 Design) |
+|---|---|---|
+| designwerk / DW DESIGNWERK | Designwerk Technologies AG (international) | 9, 12, 37, **42** |
+| Alb-Designwerk | Jessica Eger | 16, **35, 40, 42** |
+| medien DESIGNWERK. | Michael Herrmann | **35**, 41, **42** |
+| REGIO DESIGNWERK | Terres Marketing- und Consulting GmbH | **35**, 37, **42** |
+| Designwerke | Simone Maier, Joachim Beck | 14, **42** |
+| *(weitere: Möbel, Textilien, Druck u. a.)* | | |
+
+**Einordnung:** „Designwerk“ ist ein beliebter Begriff, und viele Marken bestehen nebeneinander, weil sie einen eigenen Zusatz haben (Alb-, Regio-, medien-). „Fischer Designwerk“ folgt demselben Muster. Als **Geschäftsname mit deinem eigenen Nachnamen** ist das Risiko gering. Willst du „Fischer Designwerk“ aber **als Marke anmelden**, lass das vorher prüfen (DPMA-Recherche oder Anwalt).
+
+### Empfehlung Runde 2
+
+1. **Fischer Designwerk** mit `fischerdesignwerk.de` **plus** Kürzel-Domain `fdwerk.de`.
+   Die kurze Domain ist ideal für E-Mail (`info@fdwerk.de`), Fahrzeugbeschriftung und Visitenkarten. Beide Domains zeigen auf dieselbe Website.
+   **Kosten:** 10,04 € im 1. Jahr, danach **7,82 € pro Jahr**. Das passt ins 20-€-Budget, siehe [07](07-budget-website-unter-20-euro.md).
+2. **Fischer Designtechnik** (`fischerdesigntechnik.de` + `fdtechnik.de`), wenn Werbetechnik und CAD im Vordergrund stehen sollen.
+3. **Fischer Design Lab** (`fischerdesignlab.de`), wenn es modern und digital wirken soll. Dafür gibt es keine kurze Kürzel-Domain.
+4. **Ohne Umbenennung:** „Fischer Design Germany“ behalten und die Kurz-Domain `fdgdesign.de` nutzen.
+
+---
+
+## Runde 1: allgemeine Namensideen
+
 ## Kurzfazit
 
 1. **„Germany“ gehört nicht in die Domain.** Die Endung `.de` sagt schon „Deutschland“. Im Firmennamen kannst du es trotzdem behalten.
@@ -51,7 +121,7 @@ Zum Vergleich: `fischer-design-germany.de` hat **25 Zeichen**.
 
 **Was heißt das?** Marken schützen grundsätzlich nur für die eingetragenen und ähnliche Waren und Dienstleistungen. Für **Design-Dienstleistungen** ist „FISCHER DESIGN“ nicht eingetragen. Wenn du aber **Möbel, Taschen oder Kinderprodukte** entwirfst und verkaufst, solltest du den Namen vorher **anwaltlich prüfen** lassen.
 
-**Treffer für die neuen Kombinationen:** Die Suchen nach *„Fischer Designwerk“*, *„Fischer Design Lab“*, *„Studio Fischer“* und *„Fischer Designstudio“* ergaben **0 Marken**. Eine Suche nach „Designwerk“ allein und nach „Fischer Designhaus“ hat das Register zuletzt blockiert. Die Firma *Designwerk Technologies AG* (Schweiz) baut E-Lkw, also eine ganz andere Branche.
+**Treffer für die neuen Kombinationen:** Die Suchen nach *„Fischer Designwerk“*, *„Fischer Design Lab“*, *„Studio Fischer“* und *„Fischer Designstudio“* ergaben **0 Marken**. Die Suche nach „Fischer Designhaus“ hat das Register blockiert. Zu **„Designwerk“ allein** gibt es 12 eingetragene Marken, siehe Runde 2 oben.
 
 ---
 
@@ -96,7 +166,7 @@ Zum Vergleich: `fischer-design-germany.de` hat **25 Zeichen**.
 **Mein Favorit: „Fischer Designwerk“ mit `fischerdesignwerk.de`.**
 
 - „Fischer Design“ steckt vollständig im Namen.
-- Der Zusatz macht ihn **unverwechselbar**: keine Marke, keine bekannte Firma, `.de` und `.com` frei.
+- Der Zusatz macht ihn **unverwechselbar**: Für die Kombination „Fischer Designwerk“ gibt es keine Marke und keine bekannte Firma, `.de` und `.com` sind frei. Zu „Designwerk“ allein siehe Runde 2.
 - 20 statt 25 Zeichen, gut am Telefon zu sagen: „fischer-designwerk Punkt de“.
 - **Kosten bei INWX:** `fischerdesignwerk.de` + `fischer-designwerk.de` (als Weiterleitung) = **10,04 € im 1. Jahr**, danach 7,82 €/Jahr. Optional `fischerdesignwerk.com` für 14,60 €/Jahr.
 
