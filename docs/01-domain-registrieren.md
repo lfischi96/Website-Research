@@ -2,6 +2,8 @@
 
 > Stand der Recherche: **30.10.2026**. Preise inkl. 19 % MwSt., soweit nicht anders angegeben.
 > Preise ändern sich häufig. Maßgeblich ist immer der Warenkorb beim Anbieter.
+>
+> **Update 31.10.2026:** Kürzere Namens- und Domain-Alternativen (z. B. `fischerdesignwerk.de`) stehen in [06 – Namensideen & Domain-Check](06-namensideen-domains.md). Anbieter-Vergleich und Anleitung unten gelten für jede `.de`-Domain gleichermaßen.
 
 ---
 
