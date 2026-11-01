@@ -1,7 +1,70 @@
 # 06 – Namensideen & Domain-Check: kürzer als `fischer-design-germany.de`
 
-> Stand: **31.10.2026**. Die Verfügbarkeit habe ich direkt bei den Registrys geprüft (RDAP, siehe Methodik). Eine Domain kann jederzeit von jemand anderem registriert werden.
+> Stand: **31.10.2026**, ergänzt am **01.11.2026**. Die Verfügbarkeit habe ich direkt bei den Registrys geprüft (RDAP, siehe Methodik). Eine Domain kann jederzeit von jemand anderem registriert werden.
 > Die Marken- und Namenshinweise sind **keine Rechtsberatung**.
+
+---
+
+## Runde 4 (01.11.2026): kurz und markant aus Fischer Design Germany
+
+**Ziel:** eine Domain, die aus „**F**ischer **De**sign **G**ermany“ abgeleitet, **kurz** und **markant** ist.
+**Prüfkriterien:** höchstens ca. 14 Zeichen, kein Bindestrich, besteht den Telefon-Test („sag mir mal eure Website“), gut lesbar auf Fahrzeug und Schild, nicht verwechselbar, `.de` frei.
+
+### Die Shortlist
+
+| Domain | Zeichen | Herleitung | „Fischer“ sichtbar | Telefon-Test | Risiko / Hinweis |
+|---|---:|---|:---:|:---:|---|
+| ⭐ **`fischerdg.de`** | 12 | **Fischer** **D**esign **G**ermany | ✅ | ✅ „fischer-de-ge“ | gering; „DG“ muss man einmal erklären |
+| ⭐ **`fisign.de`** | **9** | **Fi**scher + De**sign**, und „**Sign**“ = Schild/Beschriftung | ⚠️ nur „Fi“ | ⚠️ „fi-sign“ (englisch) | `fisign.com` gehört einer **Schilderfirma in New Jersey (USA)** |
+| ⭐ **`fischermade.de`** | 14 | „**Fischer Made**“, angelehnt an „Made in Germany“ | ✅ | ✅ | gering; `.com` frei; Marke „Fischer Made“ nicht eingetragen |
+| `fidego.de` | 9 | **Fi**scher **De**sign **G**ermany + o | ❌ | ✅ | klingt nach Marke, Bedeutung muss man erklären; `.com` vergeben |
+| `fischerakzent.de` | 16 | „Fischer Akzent“: setzt Akzente | ✅ | ✅ | gering, aber länger |
+| `fdger.de` | 8 | **FD** + **GER** (Länderkürzel wie im Sport) | ❌ | ⚠️ | ohne „Fischer“ |
+
+### Weitere freie Ideen
+
+**Kunstwörter**
+- `fideg.de` (8): sehr kurz, aber sperrig
+- `fi-sign.de` (10): als Tippfehler-Schutz zu `fisign.de`
+- `fschrdg.de` (10): „FSCHR DG“, modern, aber schwer zu sprechen
+
+**Kürzel**
+- `fd-g.de` (7): extrem kurz, aber Bindestrich mitten im Kürzel
+- `fd-ger.de` (9)
+- `fdgde.de` (8)
+- `fischerger.de` (13): liest sich wie ein Wort („Fischerger“), nicht empfohlen
+
+**Fischer + starkes Kurzwort**
+- `fischerkontur.de` (16): Kontur, passt zu Plott und CAD
+- `fischerzeichen.de` (17): Zeichen = Schild **und** Zeichnung
+- `fischerglanz.de` (15): Folienglanz, Kfz-Folierung
+- `fischerpixel.de` (15)
+- `fischerkante.de` (15)
+- `fischerfokus.de` (15)
+- `fischerlinie.de` (15)
+- `fischermarkant.de` (17): eher als Slogan geeignet
+- `fischerdesigner.de` (18)
+- `madebyfischer.de` (16)
+
+**Vergeben:** `fdg.de`, `f-dg.de`, `f-d-g.de`, `fdgr.de`, `fdg.design`, `fischr.de`, `fischer-de.de`, `fidgy.de`, `fischerprofil.de`
+Bei `fischerblick.de` (frei) ist Vorsicht angebracht: Der Name klingt eher nach Ferienwohnung oder Restaurant.
+
+### Slogan-Ideen (kostenlos, aber sehr wirkungsvoll)
+
+- **Fischer DG** – *Design. Folie. Technik.*
+- **Fischer DG** – *markant gestaltet.*
+- **FiSign** – *Zeichen setzen.*
+- **Fischer Made** – *gestaltet, foliert, konstruiert.*
+
+### Empfehlung Runde 4
+
+1. **`fischerdg.de` bleibt die beste Hauptdomain:** „Fischer“ ist sichtbar, der Name kommt direkt aus deinem Firmennamen, und es gibt kaum Risiko.
+2. Wenn es **noch kürzer und auffälliger** sein soll: **`fisign.de`** mit nur 9 Zeichen. Das Kunstwort ist einprägsam und passt zur Werbetechnik.
+3. Wenn du ein **Qualitätsversprechen** willst: **`fischermade.de`**.
+
+**Kombi-Idee im Budget:** `fischerdg.de` als Hauptdomain plus `fisign.de` oder `fischermade.de` als zweite Domain, die auf dieselbe Seite zeigt. Das kostet zusammen **7,82 € pro Jahr** (im 1. Jahr 10,04 €). Die Kurzform kannst du für Werbeaktionen, Fahrzeugbeschriftung oder Social Media nutzen.
+
+> **Markenprüfung:** Das Register hat die Abfragen zu „FiSign“, „Fischer DG“ und „Fidego“ blockiert. Bitte vor der Registrierung selbst im [DPMAregister](https://register.dpma.de/DPMAregister/marke/einsteiger) prüfen. Für „Fischer Made“ gibt es nur „FISCHER Measuring Made Easy“ (Messtechnik-Hersteller), das ist eine andere Marke und Branche.
 
 ---
 
